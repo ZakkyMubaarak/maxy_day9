@@ -1,0 +1,13 @@
+/* Custom CSS */
+#map {
+    height: 400px;
+    width: 100%;
+  }
+  
+  
+  .chart-container {
+    width: 60%;
+    margin: 20px auto;
+  }
+  
+  
